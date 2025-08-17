@@ -6,4 +6,5 @@
          <NuxtLink to="/products">Products</NuxtLink> <br>
          <NuxtLink to="/blogs">Blogs</NuxtLink>
     </div>
+    <Footer />
 </template>
