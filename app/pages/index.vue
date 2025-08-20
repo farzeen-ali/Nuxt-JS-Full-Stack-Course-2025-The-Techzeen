@@ -4,7 +4,8 @@
         <!-- <a href="/contact">Contact</a> -->
          <NuxtLink to="/contact">Contact</NuxtLink> <br>
          <NuxtLink to="/products">Products</NuxtLink> <br>
-         <NuxtLink to="/blogs">Blogs</NuxtLink>
+         <NuxtLink to="/blogs">Blogs</NuxtLink> <br>
+         <NuxtLink to="/list">To Do List</NuxtLink> <br>
     </div>
     <Footer />
 </template>
