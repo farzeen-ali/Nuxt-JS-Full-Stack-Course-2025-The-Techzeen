@@ -7,6 +7,7 @@
          <NuxtLink to="/blogs">Blogs</NuxtLink> <br>
          <NuxtLink to="/list">To Do List</NuxtLink> <br>
          <NuxtLink to="/reactive">Reactive</NuxtLink> <br>
+         <NuxtLink to="/piniaexample">Pinia</NuxtLink> <br>
     </div>
     <Footer />
 </template>
