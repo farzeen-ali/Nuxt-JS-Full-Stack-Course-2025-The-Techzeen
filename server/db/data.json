@@ -12,12 +12,6 @@
     "category": "Electronics"
   },
   {
-    "id": 3,
-    "name": "Shoes",
-    "price": 2000,
-    "category": "Fashion"
-  },
-  {
     "id": 4,
     "name": "Watch",
     "price": 5000,
